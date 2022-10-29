@@ -3,4 +3,6 @@ This project contain many small DevOps project. please refere to below mini proj
 
 
 ##
-P0001 - Install docker in Ubunu and expose nginx container which is running on port `80`
+- [P0001](https://github.com/rudrabiztech/devops-projects/tree/main/P0001) - Install docker in Ubunu and expose nginx container which is running on port `80`
+
+
