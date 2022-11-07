@@ -1,10 +1,10 @@
-env                  = "demo"
-project              = "rnd"
-ami                  = "ami-0667149a69bc2c367"
-instance_type        = "t2.micro"
-master_instance_type = "t2.medium"
-worker_instance_type = "t2.medium"
-region               = "ap-southeast-1"
+env                   = "demo"
+project               = "rnd"
+ami                   = "ami-0667149a69bc2c367"
+instance_type         = "t2.micro"
+master_instance_type  = "t2.medium"
+worker_instance_type  = "t2.medium"
+region                = "ap-southeast-1"
 public_subnet_count   = 2
 private_subnet_count  = 2
 master_instance_count = 3
