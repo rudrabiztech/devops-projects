@@ -4,9 +4,7 @@ module "ec2" {
 
   name = "${var.project}-${var.env}-ubuntu"
 
-  #ami                    = data.aws_ami.amazon_linux.id
-  #ami                    = var.centos_ami_id
-  ami                    = "ami-00e912d13fbb4f225"
+  ami                    = var.ubuntu_ami_id
   instance_type          = "t2.micro"
   subnet_id              = element(module.vpc.public_subnets, 0)
   vpc_security_group_ids = [module.security_group_public.security_group_id]
