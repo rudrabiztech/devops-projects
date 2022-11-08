@@ -1,5 +1,5 @@
 # Ansible 
-- This module contains the source code to deploy Docker on Ubuntu instance and start sample container
+This module contains the source code to deploy Docker on Ubuntu instance and start sample container
 
 ### Prerequisites
 - Ubuntu Instance must be up and running
