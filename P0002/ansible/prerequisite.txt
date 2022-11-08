@@ -1,4 +1,0 @@
-- Ubuntu Instance must be up and running
-- Host must be available from where ansible will be executed
-- ansible binary must be installed
-- ansible "community.docker" must be installed - to install # ansible-galaxy collection install community.docker
