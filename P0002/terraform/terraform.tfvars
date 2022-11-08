@@ -12,5 +12,5 @@ worker_instance_count = 2
 ebs_volume_count      = 0
 ec2_ebs_volume_size   = [5, 5]
 ec2_device_names      = ["/dev/sdd", "/dev/sde"]
-ubuntu_ami_id         = "ami-07eaf27c7c4a884cf"
+ubuntu_ami_id         = "ami-00e912d13fbb4f225"
 centos_ami_id         = "ami-0adfdaea54d40922b"
