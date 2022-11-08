@@ -1,5 +1,5 @@
 # Terraform
-- This module contains the source code to create Custom VPC and ec2-instance on AWS
+This module contains the source code to create Custom VPC and ec2-instance on AWS
 
 ### Prerequisites
 - Host must be available from where terraform will be executed 
